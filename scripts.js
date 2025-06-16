@@ -32,3 +32,9 @@ for( let i = 0; i < allImg.length; i++) {
   
    allImg[i].srcset= "https://media.giphy.com/media/2v170e71aanfi/giphy.gif";
 }
+
+//corrección en clase del ejercicio 3 y 4
+
+console.log("****");
+console.log(window.location.href);
+console.log(window.location.host);
